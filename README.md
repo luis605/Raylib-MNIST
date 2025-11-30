@@ -1,0 +1,1 @@
+This repository will not be updated and no patch will be made in case something breaks or needs improvement. The code is open source. This was a fun project I made and I open sourced it because multiple parties requested me to.
